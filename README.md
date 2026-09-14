@@ -17,4 +17,7 @@ How to use the program:
 
 Update history:
 November 26, 2025  Calculation tool files (version 13) uploaded.
-August 31, 2026  The version used in the study reported by Nakamura et al., “A refined framework for acute dietary exposure assessment of agricultural chemical residues in composite foods: A case study using salmon consumption data” (Food and Humanity, 2026; https://doi.org/10.1016/j.foohum.2026.101464), was Exposure Assessment Tool v10. Version 13 represents a subsequently updated version of the calculation tool.
+
+August 31, 2026  The version used in the study reported by Nakamura et al., “A refined framework for acute dietary exposure assessment of agricultural chemical residues in composite foods: A case study using salmon consumption data” (Food and Humanity, 7, 101464, 2026; https://doi.org/10.1016/j.foohum.2026.101464), was Exposure Assessment Tool v10. Version 13 represents a subsequently updated version of the calculation tool.
+
+September 14, 2026  Public distribution of the calculation tool through this repository was discontinued. The program may be available from the corresponding author upon reasonable request, subject to the conditions applicable to the underlying dietary survey data. Please contact the corresponding author regarding requests for access.
